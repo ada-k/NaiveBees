@@ -1,2 +1,2 @@
-# Na-ve-Bees
+### Naive Bees
 Bees challenge. 
